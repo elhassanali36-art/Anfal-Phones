@@ -1,0 +1,32 @@
+{
+  "name": "الجوالات — جوالات للبيع في الخرطوم",
+  "short_name": "الجوالات",
+  "description": "الجوالات — جوالات جديدة ومستعملة للبيع في الخرطوم بصور حقيقية ومواصفات واضحة، وتواصل مباشر عبر واتساب.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0912",
+  "theme_color": "#0b0912",
+  "icons": [
+    {
+      "src": "img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "img/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
